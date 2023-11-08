@@ -1,0 +1,15 @@
+.btn-primary
+{
+    font-size: 25px;
+    border-radius: 30px;
+}
+.btn-warning
+{
+    font-size: 18px;
+}
+canvas
+{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
